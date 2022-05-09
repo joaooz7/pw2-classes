@@ -1,5 +1,6 @@
 
 public class CartaoCliente {
-	public String numCartao, dtValidade, tipo;
+	public int numCartao;
+	public String dtValidade, tipo;
 	public Cliente cliente;
 }

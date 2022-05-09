@@ -6,6 +6,11 @@ public class TestaRelacionamento {
 		CartaoCliente card = new CartaoCliente();
 		
 		card.cliente = cli;
+		
+		Agencia agn = new Agencia();
+		Contas cnt = new Contas();
+		
+		cnt.agencia = agn;
 	}
 
 }
