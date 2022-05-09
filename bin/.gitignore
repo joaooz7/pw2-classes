@@ -1,12 +1,13 @@
 /Aluno.class
+/CartaoCliente.class
+/Cliente.class
 /Funcionario.class
 /Grupo.class
 /TestaAluno.class
 /TestaFuncionario.class
 /TestaGasto.class
-/Turma.class
 /TestaTurma.class
-/statusCliente.class
-/Cliente.class
 /TipoCartao.class
-/CartaoCliente.class
+/Turma.class
+/statusCliente.class
+/TestaRelacionamento.class
